@@ -3,6 +3,11 @@
 ## Our Goal
 The goal of this project is to learn to make IBOutlets, Usage of UIKit Timer, Maps, and layouts of StoryBoards.
 
+## Screenshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109294768/251235607-670fa729-f54d-4144-ae06-2e8af682b3bc.png" width="200" height="400" />
+</p>
+
 ## What I Learn't From This Project
   * Swift Collection types - Dictionaries
   * The Swift Timer API
