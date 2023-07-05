@@ -1,27 +1,27 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
 ## Our Goal
+The goal of this project is to learn to make IBOutlets, Usage of UIKit Timer, Maps, and layouts of StoryBoards.
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+## What I Learn't From This Project
+  * Swift Collection types - Dictionaries
+  * The Swift Timer API
+  * Conditional statements - IF/ELSE
+  * Conditional statements - Switch
+  * Functions with outputs
+  * How to use the ProgressView
 
-## What You'll Make
+## 🚀 About Me
+I'm a mobile application developer working mainly in Flutter, Swift and SwiftUI. I work mainly to enhance my technical skill as well as gain managerial skills by acquiring a job in a reputable, growth-oriented organization, which provides constant personal development. A dedicated and passionate Mobile Application Developer focusing predominantly on Front end designs, but always able and willing to adapt to and learn new languages and databases.
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+## Authors
 
-## What you will learn
+- [@abdullahihsan3](https://www.github.com/abdullahihsan3)
 
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+## 🛠 Skills
+Flutter, Swift, SwiftUI, Java, Figma
 
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,swift,java,mongodb)](https://skills.thijs.gg)
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
